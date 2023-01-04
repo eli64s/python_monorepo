@@ -1,0 +1,7 @@
+black
+flake8
+isort
+nltk
+numpy
+pandas
+scikit-learn
