@@ -1,4 +1,5 @@
 black
+colorlog
 flake8
 isort
 nltk

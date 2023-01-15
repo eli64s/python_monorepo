@@ -35,6 +35,6 @@ venv:
 
 # Conda Environment
 conda_env:
-	conda create -n myenv python=3.9 pip conda -y
-	source activate myenv && \
+	conda create -n venv python=3.9 pip conda -y
+	source activate venv && \
 	pip install .
