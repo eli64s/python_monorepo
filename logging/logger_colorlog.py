@@ -1,14 +1,13 @@
 """
 logging/logger.py
 """
-
 import logging
 
 from colorlog import ColoredFormatter
 
 
 def setup_logger():
-    """Returns a logger with a default ColoredFormatter."""
+    """ Returns logger configured with ColoredFormatter. """
     formatter = ColoredFormatter(
         "%(log_color)s%(levelname)-8s%(reset)s %(blue)s%(message)s",
         datefmt=None,

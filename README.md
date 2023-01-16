@@ -1,3 +1,3 @@
-# Common
+# Common Scripts
 
-Repository containing reusable scripts and utilities for development.
+Repository containing reusable scripts and utilities for software development.
