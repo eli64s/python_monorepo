@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/k01101011",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Eli",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 5 - Production/Stable",
+  "email": "k0b01101011@gmail.com",
+  "friendly_name": "Python Monorepo",
+  "github_user": "eli64s",
+  "license": "Apache-2.0",
+  "package_name": "python_monorepo",
+  "project_name": "python_monorepo",
+  "version": "0.0.0"
+}
